@@ -7,6 +7,9 @@ This project features an in-depth Power BI dashboard designed to analyze and vis
 ## Live Dashboard :
 Here is the report link you can explore it here :https://lnkd.in/g5vKRkJb
 
+## Here is my presentation link :
+https://www.linkedin.com/posts/neha-panjabi-51a642213_powerbi-dataanalytics-sql-activity-7249276101959565312-Xy5T?utm_source=share&utm_medium=member_desktop
+
 ## Dashboard Features :
 - **Finance View:** Explore P&L statements, product analysis, and net sales trends.
 - **Sales View:** Dive into customer and product performance with dynamic charts and filters.
@@ -15,7 +18,8 @@ Here is the report link you can explore it here :https://lnkd.in/g5vKRkJb
 - **Executive View:** Get high-level insights with KPI cards and revenue breakdowns.
 
 ## Data Sources :
-  **1.Excel/CSV Files:** Targets and Market Share data, along with related information, are collected from Excel and CSV files.
+  **1.Excel/CSV Files:** Targets and Market Share data, along with related information, are collected from Excel and CSV files. 
+  
   **2.MySQL Database:** Essential facts and dimensions for all departments are pulled from a MySQL database.
 
 ## Skills Learned :
